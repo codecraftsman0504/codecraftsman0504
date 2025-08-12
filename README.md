@@ -1,5 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, This is Bryson
 
+| <a href="https://github.com/codecraftsman0504"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0504&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bryson's github stats" /></a> | <a href="https://github.com/codecraftsman0504"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+## ⚡ EXP fiels
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
