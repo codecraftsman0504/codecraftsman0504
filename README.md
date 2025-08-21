@@ -3,7 +3,7 @@
 | <a href="https://github.com/codecraftsman0504"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0504&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bryson's github stats" /></a> | <a href="https://github.com/codecraftsman0504"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## ⚡ EXP fields
+## ⚡ My EXP Fields
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
